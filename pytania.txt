@@ -1,0 +1,2 @@
+﻿Nie jarzę..
+ "Pamiętaj, że to opakowanie daje nam wiele możliwości, więc warto korzystać z metody .eq() dostępnej w jQuery."
